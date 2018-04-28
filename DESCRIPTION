@@ -1,0 +1,11 @@
+Package: LibraryData
+Type: Package
+Title: Library Data
+Version: 0.1.0
+Author: Max LaMura
+Maintainer: mlamura@mail.usf.edu
+Description: 
+    Provides functions to store user data and total checkouts per patron.
+License: GNU
+Encoding: UTF-8
+LazyData: true
